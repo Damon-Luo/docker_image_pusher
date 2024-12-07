@@ -12,3 +12,5 @@ wiznote/wizserver
 linuxserver/heimdall
 #测速
 adolfintel/speedtest
+#文件分享
+timvisee/send
